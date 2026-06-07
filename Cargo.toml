@@ -1,0 +1,12 @@
+[package]
+name = "cellular-automata-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Elementary cellular automata (Wolfram rules 0-255), Conway's Game of Life, Langton's Ant, and cyclic automata in pure Rust"
+license = "MIT OR Apache-2.0"
+keywords = ["cellular-automata", "wolfram", "game-of-life", "langton", "automaton"]
+categories = ["science", "mathematics", "simulation"]
+repository = "https://github.com/SuperInstance/cellular-automata-rs"
+documentation = "https://docs.rs/cellular-automata-rs"
+readme = "README.md"
+authors = ["SuperInstance"]
